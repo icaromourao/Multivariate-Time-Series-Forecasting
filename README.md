@@ -1,1 +1,3 @@
 # Multivariate-Time-Series-Forecasting
+
+This thesis project, titled 'Time Series Forecasting of Climate Data with Deep Learning,' represents a culmination of my academic journey in Computer Science using Python. It delves into the intricate realm of climate data analysis and prediction, harnessing the power of deep learning techniques. Through this work, I've explored the depths of time series analysis and applied cutting-edge methodologies to forecast climate trends in my region. This project showcases my commitment to research, data science, and the pursuit of insights that can make a significant impact in the field of climate science.
